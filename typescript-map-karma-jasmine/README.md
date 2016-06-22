@@ -4,7 +4,6 @@ to run this example:
 
 ```
 npm install
-npm run tsc
 npm run test
 ```
 
