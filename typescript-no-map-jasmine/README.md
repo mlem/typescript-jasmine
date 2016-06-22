@@ -4,7 +4,7 @@ to run this example:
 
 ```
 npm install
-npm tsc
+npm run tsc
 ```
 
 then open `SpecRunner.html`
