@@ -2,3 +2,4 @@
 *.map
 typings/
 !lib/**/*.js
+!karma.conf.js

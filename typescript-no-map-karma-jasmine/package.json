@@ -1,0 +1,30 @@
+{
+  "name": "typescript-no-map-jasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start",
+    "postinstall": "typings install",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "typings": "typings"
+  },
+  "keywords": [
+    "jasmine",
+    "testing",
+    "typescript"
+  ],
+  "author": "Martin Lemanski",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "typescript": "^1.8.10",
+    "typings": "^1.0.4"
+  },
+  "private": true
+}
