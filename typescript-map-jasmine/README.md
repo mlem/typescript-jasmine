@@ -1,4 +1,4 @@
-# Typescript with jasmine and sourcemap files
+# Typescript with jasmine and sourcemaps
 
 to run this example:
 

@@ -1,4 +1,4 @@
-# Typescript with karma and jasmine but no map files
+# Typescript with karma and jasmine with sourcemaps
 
 to run this example:
 

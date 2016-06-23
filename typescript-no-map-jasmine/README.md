@@ -1,4 +1,4 @@
-# Typescript with jasmine but no map files
+# Typescript with jasmine but no sourcemaps
 
 to run this example:
 
