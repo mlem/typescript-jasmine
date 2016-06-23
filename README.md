@@ -1,5 +1,14 @@
 # Jasmine with Karma, Javascript and Typescript
 
+
+##Frameworks
+* [jasmine](http://jasmine.github.io/2.4/introduction.html)
+* [node](https://nodejs.org/en/)
+* [npm](https://www.npmjs.com/)
+* [karma](https://karma-runner.github.io/0.13/index.html)
+* [typescript](https://www.typescriptlang.org/)
+
+
 ## Where to start
 
 1. javascript-jasmine
